@@ -1,3 +1,4 @@
+-- Deliverable 1
 -- Retrieve the emp_no, first_name, and last_name columns from Employees table
 
 SELECT emp_no, first_name, last_name, birth_date
